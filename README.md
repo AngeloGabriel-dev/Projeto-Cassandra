@@ -1,5 +1,5 @@
 Participantes:
-Angelo Gabriel Vasconcelos Baptista RA: 22.122.081-7
+Angelo Gabriel Vasconcelos Baptista RA: 22.122.081-7 <br>
 Thiago Monteiro Tinonin             RA: 22.122.044-5
 
 # Projeto-Cassandra
