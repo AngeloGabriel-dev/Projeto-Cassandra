@@ -9,3 +9,5 @@ Para executá-lo, você deve baixar os arquivos desse repositório e executar es
 SOURCE '/'Caminho até a pasta dos scripts baixados'/queriesCriacaoTabelas.cql';<br>
 SOURCE '/'Caminho até a pasta dos scripts baixados'/queriesInsercaoDados.cql';<br>
 SOURCE '/'Caminho até a pasta dos scripts baixados'/queriesExtrairRelatorios.cql';<br>
+
+O restante dos arquivos são o modelo feito para um banco sql que serviu de base para o desenvolvimento do modelo desse projeto. 
